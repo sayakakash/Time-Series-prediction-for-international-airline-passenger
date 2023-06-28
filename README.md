@@ -19,3 +19,5 @@ the agreement of a fitted distribution with observed data
 
 
 6. Check the stationarity of timeseries using Augemented Dickey-Fuller test.
+
+7.show log transformation of the data
